@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    background-color:rgba(22, 219, 245, 0.678) ;
+}
+.header {
+    background-color:rgba(22, 219, 245, 0.678);
+    height: 90px;
+    width: 100%;
+    margin-top: 0;
+    padding-top: 0;
+}
+.header h1 {
+font-size: 30px;
+color: rgb(247, 14, 14); 
+margin-top: 0;
+position: center;
+padding-right: 0px;
+}
+.footer {
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 88.2%;
+    position: absolute;
+    bottom: 0;
+    float: right;
+    height: 50px;
+    margin-left: 50px;
+}
+.look {width: 90%;
+ box-shadow: 0 1px 1em rgba(blue);
+ height:510px;
+ border-top: 3px solid black;
+ float: left;
+ border: 3px solid black;
+ margin-left: 50px;
+ background-color: rgb(252, 254, 255);
+}
+.content-title {
+    height: 40px;
+    border-bottom: 5px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 10px;
+}
+.co h3 {
+    margin-left: 10px;
+    font-size: 50px;
+}
+.content p {
+    float: right;
+    font-size: 23px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.content-text img {
+    width: 450px;
+    height: 413px;
+    float: left;
+    border: 3px solid black;
+}
+.scroll-text {background-color: rgb(111, 255, 176); 
+}
+.scroll-text {
+    height: 1cm; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}
+.menu {
+    background-color:rgba(22, 219, 245, 0.671);
+    height: 40px;
+}
+.menu ul {
+    margin: 0;
+}
+.menu li {display: inline-block;
+    margin-top: 10px;
+padding: 1px;
+}
+.menu ul a {background-color: rgb(255, 127, 133);
+    text-decoration: none;
+margin-bottom: 5px;
+color: white;
+font-size: larger;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 10px;
+border-radius: 5px;
+padding-right: 115px;
+padding-left: 135px;
+padding-bottom: 0px;
+}
+.header h1 {
+margin-left: 600px;
+font-size: 50px;
+padding-top: 20px;
+}
+.header h4 {
+    font-size: medium;
+    float: inline-end;
+}
